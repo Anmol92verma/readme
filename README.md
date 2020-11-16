@@ -36,8 +36,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Text Editors: VS Code
  - Desktop:
 			 - CPU: I7 10700 @ 2.9GGz
-			 - RAM: 32GB 3600MHz
-			 - GPU: RX580 8GB
+			 - RAM: 32GB 3200MHz
 			 - OS: MacOS (Hackintosh)
 - Laptop:
 			- MacBook Pro 13inch, i7, 16GB Ram
