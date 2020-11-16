@@ -8,8 +8,6 @@ I am currently a Technical Lead for Android at MutualMobile, I code usually in K
 
 I am used to writing some code in JavaScipt for some projects, I have written small projects using Node.JS,express and mongodb. 
 
-My development machine is a Hackintosh, I have two of them right now. plus a fancy :D macbook pro from Office!
-
 Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
 
 
