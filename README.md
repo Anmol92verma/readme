@@ -4,27 +4,27 @@
 Hey there! I am Anmol from Chandigarh, IN.
 
 I have a love for code, spirituality, and travel, I also adore coffee! 
-I am currently a Technical Lead for Android at MutualMobile, Hyderabad IN, I code usually in Kotlin, using Android SDK and NDK also having some experience in desktop and cross platform apps.
+I am currently a Technical Lead for Android at MutualMobile, Hyderabad IN, 
+I code usually in Kotlin, using Android SDK and NDK also having some experience in desktop and cross platform apps.
 
 Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
 
 
-## ⚡ Languages/Tech
+## ⚡ Languages/Tech that I have worked on.
 
  - JAVA
  - Kotlin
  - Python
- - Node.JS
  - Android
  - Dart
+ - Spring Boot
  - Flutter
- - React Native
  - Databases: MySQL, MongoDB, Sqlite
  
 ##  👀 What I Am Working on atm
 
-- Some amazing Android projects at office!
-- Parallely Learning ktor.io ~ backend stuff and some Machine Learning 
+- Some amazing projects at office!
+- Parallely Learning ktor.io ~ architectural backend stuff and some Machine Learning 
 
 
 ##  💻 My Stuff
