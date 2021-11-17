@@ -19,7 +19,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Dart
  - Spring Boot
  - Flutter
- - Databases: MySQL, MongoDB, Sqlite
+ - Databases: MySQL, MongoDB, Postgresql, Sqlite
  
 ##  👀 What I Am Working on atm
 
