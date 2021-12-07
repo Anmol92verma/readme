@@ -36,7 +36,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 			 - RAM: 32GB 3200MHz
 			 - OS: MacOS (Hackintosh)
 - Laptop:
-			- MacBook Pro 13inch, i7, 16GB Ram
+			- MacBook Pro M1 14"
 
 ## 📫  Contact Me:
 
