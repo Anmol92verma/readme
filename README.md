@@ -24,7 +24,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 ##  👀 What I Am Working on atm
 
 - Some amazing projects at office!
-- Parallely Learning ktor.io ~ architectural backend stuff and some Machine Learning 
+- Parallely implementing spring framework in backend apps using kotlin, learning architectural backend stuff and exploring some Machine Learning solutions
 
 
 ##  💻 My Stuff
