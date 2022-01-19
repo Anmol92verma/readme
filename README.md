@@ -24,7 +24,9 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 ## 🎬 Projects:
 
 [Praxis - Kotlin multiplatform base project](https://github.com/mutualmobile/praxiskmm)
+
 [Praxis - Andoid Base project with Jetpack compose, clean architecture.](https://github.com/mutualmobile/praxis)
+
 [Praxis - Flutter Base project with clean architecture](https://github.com/mutualmobile/praxisflutter)
 
 
