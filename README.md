@@ -15,7 +15,13 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
  - LinkedIn: https://www.linkedin.com/in/anmolverma92/
  - Telegram: https://t.me/anmolvermaa
 
-## Projects:
+##  👀 What I Am Working on atm
+
+- Some amazing projects at office!
+- Kotlin Multiplatform
+- Flutter cross platform apps
+
+## 🎬 Projects:
 
 [Praxis - Kotlin multiplatform base project](https://github.com/mutualmobile/praxiskmm)
 [Praxis - Andoid Base project with Jetpack compose, clean architecture.](https://github.com/mutualmobile/praxis)
@@ -29,12 +35,6 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
  - Dart, Flutter
  - Spring Boot
  - Databases: MySQL, MongoDB, Postgresql, Sqlite
- 
-##  👀 What I Am Working on atm
-
-- Some amazing projects at office!
-- Kotlin Multiplatform
-- Flutter cross platform apps
 
 
 ##  💻 My Stuff
