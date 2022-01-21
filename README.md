@@ -29,6 +29,8 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 [Praxis - Flutter Base project with clean architecture](https://github.com/mutualmobile/praxisflutter)
 
+[JetCalendarView - Jetpack compose calendar view](https://github.com/Anmol92verma/JetCalendarView)
+
 
 ## ⚡ Languages/Tech that I have worked on.
 
