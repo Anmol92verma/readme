@@ -31,6 +31,10 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 [JetCalendarView - Jetpack compose calendar view](https://github.com/Anmol92verma/JetCalendarView)
 
+[Slack Flutter Clone](https://github.com/anmol92verma/flutter_slack)
+
+[Slack Android Clone (Jetpack Compose)](https://github.com/anmol92verma/slackandroidclone)
+
 
 ## ⚡ Languages/Tech that I have worked on.
 
