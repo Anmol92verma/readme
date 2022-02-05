@@ -11,7 +11,7 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 ## 📫  Contact Me:
 
- - Site: http://anmolverma.in
+ - Site: https://anmolverma.in
  - LinkedIn: https://www.linkedin.com/in/anmolverma92/
  - Telegram: https://t.me/anmolvermaa
 
