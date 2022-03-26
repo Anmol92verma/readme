@@ -37,6 +37,8 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 [Twitter Android Clone (Jetpack Compose)](https://github.com/Anmol92verma/jettwitter)
 
+[Compose Animations Playground](https://github.com/Anmol92verma/ComposeAnimationsPlayground)
+
 
 ## ⚡ Languages/Tech that I have worked on.
 
