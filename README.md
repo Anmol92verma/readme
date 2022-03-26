@@ -20,6 +20,7 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 - Some amazing projects at office!
 - Kotlin Multiplatform
 - Flutter cross platform apps
+- Jetpack Compose Android!
 
 ## 🎬 Projects:
 
