@@ -5,7 +5,7 @@ Hey there! I am Anmol from Chandigarh, IN.
 
 I love coding, spirituality, and travel, I also adore coffee! 
 I am currently working as an Android Architect at MutualMobile, Hyderabad IN, 
-I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps.
+I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps also.
 
 Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
 
