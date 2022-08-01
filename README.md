@@ -44,6 +44,7 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 [Compose Animations Playground](https://github.com/Anmol92verma/ComposeAnimationsPlayground)
 
+[SwiftUI Netflix Animation](https://github.com/mutualmobile/SwiftUIAnimations)
 
 
 ## ⚡ Languages/Tech that I have worked on.
