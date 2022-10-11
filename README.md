@@ -24,6 +24,8 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 ## 🎬 Projects:
 
+[Multiplatform gRPC Slack Clone](https://github.com/Anmol92verma/SlackComposeMultiplatform)
+
 [Harvest Clone - Kotlin multiplatform project](https://github.com/mutualmobile/HarvestTimeKMP)
 
 [Praxis - Kotlin multiplatform base project](https://github.com/mutualmobile/praxiskmm)
