@@ -41,7 +41,7 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
  - Site: https://anmolverma.in
  - LinkedIn: https://www.linkedin.com/in/anmolverma92/
- - Telegram: https://t.me/anmolvermaa
+ - Telegram: https://t.me/oianmol
 
 ##  👀 What I Am Working on atm
 
