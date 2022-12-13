@@ -31,10 +31,10 @@
 
 ## 👋 Hi there 
 
-Hey there! I am Anmol from Chandigarh, IN.
+Hey there! I am Anmol.
 
 I love coding, spirituality, and travel, I also adore coffee! 
-I am currently working as an Android Architect at MutualMobile, Hyderabad IN, 
+I am currently working as an Android Developer at Delivery Hero, Berlin, Germany, 
 I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps also.
 Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
 ## 📫  Contact Me:
@@ -52,7 +52,7 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 ## 🎬 Projects:
 
-[Multiplatform gRPC Slack Clone](https://github.com/Anmol92verma/SlackComposeMultiplatform)
+[Multiplatform gRPC Slack Clone](https://github.com/oianmol/SlackComposeMultiplatform)
 
 [Harvest Clone - Kotlin multiplatform project](https://github.com/mutualmobile/HarvestTimeKMP)
 
@@ -62,17 +62,17 @@ Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some
 
 [Praxis - Flutter Base project with clean architecture](https://github.com/mutualmobile/praxisflutter)
 
-[JetCalendarView - Jetpack compose calendar view](https://github.com/Anmol92verma/JetCalendarView)
+[JetCalendarView - Jetpack compose calendar view](https://github.com/oianmol/JetCalendarView)
 
-[Slack Flutter Clone](https://github.com/anmol92verma/flutter_slack)
+[Slack Flutter Clone](https://github.com/oianmol/flutter_slack)
 
-[Slack Android Clone (Jetpack Compose)](https://github.com/anmol92verma/slackandroidclone)
+[Slack Android Clone (Jetpack Compose)](https://github.com/oianmol/slackandroidclone)
 
-[Discord Android Clone (Jetpack Compose)](https://github.com/Anmol92verma/DiscordJetpackCompose)
+[Discord Android Clone (Jetpack Compose)](https://github.com/oianmol/DiscordJetpackCompose)
 
-[Twitter Android Clone (Jetpack Compose)](https://github.com/Anmol92verma/jettwitter)
+[Twitter Android Clone (Jetpack Compose)](https://github.com/oianmol/jettwitter)
 
-[Compose Animations Playground](https://github.com/Anmol92verma/ComposeAnimationsPlayground)
+[Compose Animations Playground](https://github.com/oianmol/ComposeAnimationsPlayground)
 
 [SwiftUI Netflix Animation](https://github.com/mutualmobile/SwiftUIAnimations)
 
