@@ -31,26 +31,24 @@
 
 ## 👋 Hi there 
 
-Hey there! I am Anmol.
-
-I love coding, spirituality, and travel, I also adore coffee! 
-I am currently working as an Android Developer at Delivery Hero, Berlin, Germany, 
-I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps also.
-Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
+Hey there! I am Anmol, currently working as an Android Developer at Delivery Hero, Berlin, Germany, 
+I write Android native apps but I have experience writing kotlin multiplatform and flutter cross platform apps and SDKs also.
+Feel free to contact me up on LinkedIn or Telegram. Always happy to discuss and collaborate on projects!
 ## 📫  Contact Me:
 
  - Site: https://anmolverma.in
  - LinkedIn: https://www.linkedin.com/in/anmolverma92/
  - Telegram: https://t.me/oianmol
+ - Twitter: https://twitter.com/oianmol
 
-##  👀 What I Am Working on atm
+##  👀 What I am into at the moment ?
 
 - Some amazing projects at office!
-- Kotlin Multiplatform
-- Flutter cross platform apps
+- Kotlin Multiplatform OS projects
+- Flutter.
 - Jetpack Compose Android!
 
-## 🎬 Projects:
+## 🎬 OS Projects:
 
 [Multiplatform gRPC Slack Clone](https://github.com/oianmol/SlackComposeMultiplatform)
 
