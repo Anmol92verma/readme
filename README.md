@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Anmol Verma</h1>
-<h3 align="center">Working on Android since 2014, Interested in Kotlin Multiplatform, Flutter, and Kotlin Backend</h3>
+<h1 align="center">Hi 👋, I'm Anmol</h1>
+<h3 align="center">A passionate developer writing mobile apps since 2014, 
+I have  experience working with Android, Kotlin, Flutter, Kotlin Multiplatform and Spring Boot</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oianmol&show_icons=true&locale=en" alt="oianmol" /></p>
+I have worked for clients like 
+1. Google
+2. AccuWeather
+3. Seagate
+4. Anderson Columbia
+5. Delivery Hero SE (food panda, talabaat)
 
+I have been writing products with clean architecture and MVVM, and the features are covered with the following 
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oianmol&show_icons=true&locale=en&layout=compact" alt="oianmol" /></p>
+1. Unit testing
+2. Instrumentation tests
+3. Espresso Tests
+4. E2E Tests
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oianmol" alt="oianmol" /></a> </p>
-
+I have good experience with Kotlin Multiplatform with which I have written several apps and SDKs for projects at office and freelance contracts. Since I have worked with Flutter in the past I can build high performance cross platform apps as well.
 
 ## 📫  Contact Me:
 
@@ -68,3 +77,7 @@
 	 - OS: MacOS (Hackintosh)
 - Laptop:
 	- MacBook Pro M1 14"
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oianmol&show_icons=true&locale=en" alt="oianmol" /></p>
+
