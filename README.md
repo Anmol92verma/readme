@@ -7,7 +7,7 @@ I have worked for clients like
 2. AccuWeather
 3. Seagate
 4. Anderson Columbia
-5. Delivery Hero SE (food panda, talabaat)
+5. FoodPanda (Delivery Hero SE)
 
 I have been writing products with clean architecture and MVVM, and the features are covered with the following 
 
