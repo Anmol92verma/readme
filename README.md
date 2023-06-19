@@ -56,7 +56,7 @@ I have good experience with Kotlin Multiplatform with which I have written sever
 
 [Compose Animations Playground](https://github.com/oianmol/ComposeAnimationsPlayground)
 
-[SwiftUI Netflix Animation](https://github.com/mutualmobile/SwiftUIAnimations)
+[SwiftUI Netflix Animation](https://github.com/oianmol/SwiftUIAnimations)
 
 
 ## ⚡ Languages/Tech that I have worked on.
