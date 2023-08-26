@@ -2,12 +2,12 @@
 <h3 align="center">A passionate developer writing mobile apps since 2014, 
 I have  experience working with Android, Kotlin, Flutter, Kotlin Multiplatform and Spring Boot</h3>
 
-I have worked for clients like 
+I have worked on projects with 
 1. Google
 2. AccuWeather
 3. Seagate
 4. Anderson Columbia
-5. FoodPanda (Delivery Hero SE)
+5. Delivery Hero SE
 
 I have been writing products with clean architecture and MVVM, and the features are covered with the following 
 
