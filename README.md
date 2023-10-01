@@ -9,7 +9,7 @@ I have worked on projects with
 4. Anderson Columbia
 5. Delivery Hero SE
 
-I have been writing products with clean architecture and MVVM, and the features are covered with the following 
+I have been writing products with clean architecture MVVM/MVI, and the features are covered with the following 
 
 1. Unit testing
 2. Instrumentation tests
