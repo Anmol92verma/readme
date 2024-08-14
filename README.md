@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">A passionate developer writing mobile apps since 2014, 
-I have  experience working with Android, Kotlin, Flutter, Kotlin Multiplatform and Spring Boot</h3>
+I have  experience working with Android, Kotlin, Flutter, Kotlin Multiplatform, sometimes BE</h3>
 
 I have worked on projects with 
 1. Google
